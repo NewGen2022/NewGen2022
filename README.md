@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm NewGen2022 👋
 
-<!--
-**NewGen2022/NewGen2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack developer and tech enthusiast, always eager to learn and explore new technologies. I enjoy building dynamic and scalable applications, focusing on both frontend and backend development.
 
-Here are some ideas to get you started:
+Currently, I'm diving into building modern web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As for future plans, I want to enhance my skills in system administration, focusing on server management and security. I also aim to learn cross-platform mobile development and machine learning.
+
+In addition to my development work, I enjoy solving cybersecurity challenges and continuously improving my skills. I'm also dedicated to learning and improving my English to better communicate and collaborate with others.
+
+Feel free to check out my projects!
+
+## Skills
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,python,nodejs,expressjs,jest,html,css,tailwindcss,c,cpp,cs,git,github,linux,ubuntu,debian,vmwareworkstation,mongodb,mongoose,mysql,postgresql,supabase,puppeteer)
