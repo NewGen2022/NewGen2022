@@ -1,4 +1,4 @@
-## Hi there, I'm NewGen2022 👋
+# Hi there 👋
 
 I'm a passionate full-stack developer and tech enthusiast, always eager to learn and explore new technologies. I enjoy building dynamic and scalable applications, focusing on both frontend and backend development.
 
