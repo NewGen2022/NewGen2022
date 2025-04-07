@@ -12,3 +12,6 @@ Feel free to check out my projects!
 
 ## Skills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,python,nodejs,expressjs,jest,html,css,tailwindcss,c,cpp,cs,git,github,linux,ubuntu,debian,vmwareworkstation,mongodb,mongoose,mysql,postgresql,supabase,puppeteer)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newgen2022&layout=donut&theme=jolly)](https://github.com/newgen2022)
+
